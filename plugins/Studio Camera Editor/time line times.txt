@@ -1,0 +1,15 @@
+6	hrs	-- zero is 0:00:00			HOUR UNITS
+
+1	hrs	-- zero is 0:00				MINUTE UNITS
+30	min
+15	min
+5	min
+
+1	min	-- zero is 0				SECOND UNITS
+30	sec
+15	sec
+5	sec
+
+1	sec	-- display seconds with 1 decimal	100 MILLIS
+500	mil
+100	mil	-- display seconds with 2 decimals	10 MILLIS
